@@ -49,31 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "References/AI For Games/C1 What is AI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1e820f69c68f75e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "References/AI For Games/C2 Game AI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "130bf3cb64de518a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "References/AI For Games/C3 Movement.md",
+                "file": "Notes/Work/游戏中常用的空间数据结构.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -206,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/AI For Games/C1 What is AI.md",
+                "file": "Notes/Work/游戏中常用的空间数据结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/AI For Games/C1 What is AI.md",
+                "file": "Notes/Work/游戏中常用的空间数据结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "References/AI For Games/C1 What is AI.md"
+                "file": "Notes/Work/游戏中常用的空间数据结构.md"
               }
             }
           }
@@ -260,17 +236,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4887588ae2f98d8a",
+  "active": "c8939807e8bb81f1",
   "lastOpenFiles": [
+    "Notes/Work/开发流程 DevOps, CI-CD.md",
+    "Notes/Others/Interview FQA.md",
+    "References/AI For Games/C1 What is AI.md",
     "References/AI For Games/C2 Game AI.md",
     "References/AI For Games/C3 Movement.md",
     "References/AI For Games/C4 Pathfinding.md",
     "References/AI For Games/C5 Decision Making.md",
     "References/AI For Games/C6 Tactical and Strategic AI.md",
     "References/AI For Games/C7 Learning.md",
-    "References/AI For Games/C8 Board Games.md",
-    "References/AI For Games/C1 What is AI.md",
-    "References/Computer animation algorithms and techniques/C12 Special Models for Animation.md",
-    "References/Computer animation algorithms and techniques/C11 Behavioral Animation.md"
+    "References/AI For Games/C8 Board Games.md"
   ]
 }
