@@ -1,0 +1,10 @@
+* text=true
+
+# Explicitly declare text files you want to always be normalized and converted
+# to native line endings on checkout.
+*.md text
+*.json text
+
+# Denote files that are truly binary and should not be modifies.
+*.png binary
+*.jpg binary
