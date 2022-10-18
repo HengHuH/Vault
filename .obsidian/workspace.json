@@ -42,9 +42,105 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c8939807e8bb81f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/AI For Games/C1 What is AI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1e820f69c68f75e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/AI For Games/C2 Game AI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "130bf3cb64de518a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/AI For Games/C3 Movement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "374a6e39c4053973",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/AI For Games/C4 Pathfinding.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93d31875408c6f11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/AI For Games/C5 Decision Making.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0cb4c31046901d44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/AI For Games/C6 Tactical and Strategic AI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "537c9620238c2fb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/AI For Games/C7 Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4887588ae2f98d8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/AI For Games/C1 What is AI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -110,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Computer animation algorithms and techniques/C12 Special Models for Animation.md",
+                "file": "References/AI For Games/C1 What is AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Computer animation algorithms and techniques/C12 Special Models for Animation.md",
+                "file": "References/AI For Games/C1 What is AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "References/Computer animation algorithms and techniques/C12 Special Models for Animation.md"
+                "file": "References/AI For Games/C1 What is AI.md"
               }
             }
           }
@@ -164,17 +260,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "0a3815c80cd31cb1",
+  "active": "4887588ae2f98d8a",
   "lastOpenFiles": [
-    "References/Computer animation algorithms and techniques/C11 Behavioral Animation.md",
-    "References/Computer animation algorithms and techniques/C10 Facial Animation.md",
-    "References/Computer animation algorithms and techniques/C9 Modeling and Animating Human Figures.md",
-    "References/Computer animation algorithms and techniques/C8 Fluids, Liquids and Gases.md",
-    "References/Computer animation algorithms and techniques/C7 Physically Based Animation.md",
-    "References/Computer animation algorithms and techniques/C6 Motion Capture.md",
-    "References/Computer animation algorithms and techniques/C5 Kinematic Linkages.md",
-    "References/Computer animation algorithms and techniques/C4 Interpolation-Based Animation.md",
-    "References/Computer animation algorithms and techniques/C3 Interpolating Values.md",
-    "References/Computer animation algorithms and techniques/C1 Intrduction.md"
+    "References/AI For Games/C2 Game AI.md",
+    "References/AI For Games/C3 Movement.md",
+    "References/AI For Games/C4 Pathfinding.md",
+    "References/AI For Games/C5 Decision Making.md",
+    "References/AI For Games/C6 Tactical and Strategic AI.md",
+    "References/AI For Games/C7 Learning.md",
+    "References/AI For Games/C8 Board Games.md",
+    "References/AI For Games/C1 What is AI.md",
+    "References/Computer animation algorithms and techniques/C12 Special Models for Animation.md",
+    "References/Computer animation algorithms and techniques/C11 Behavioral Animation.md"
   ]
 }
