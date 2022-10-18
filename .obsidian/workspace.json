@@ -8,102 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f3ade1759fb364e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "References/MIT-6.034 Artificial Intelligence/L10 Introduction to Learning, Nearest Neighbors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08fb2cb0dfc59ec7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "References/Computer animation algorithms and techniques/C1 Intrduction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a3815c80cd31cb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "References/Computer animation algorithms and techniques/C12 Special Models for Animation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8939807e8bb81f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Work/游戏中常用的空间数据结构.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "374a6e39c4053973",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "References/AI For Games/C4 Pathfinding.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93d31875408c6f11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "References/AI For Games/C5 Decision Making.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0cb4c31046901d44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "References/AI For Games/C6 Tactical and Strategic AI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "537c9620238c2fb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "References/AI For Games/C7 Learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4887588ae2f98d8a",
             "type": "leaf",
             "state": {
@@ -115,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Work/游戏中常用的空间数据结构.md",
+                "file": "References/AI For Games/C1 What is AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Work/游戏中常用的空间数据结构.md",
+                "file": "References/AI For Games/C1 What is AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Work/游戏中常用的空间数据结构.md"
+                "file": "References/AI For Games/C1 What is AI.md"
               }
             }
           }
@@ -230,23 +133,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c8939807e8bb81f1",
+  "active": "4887588ae2f98d8a",
   "lastOpenFiles": [
-    "Notes/Work/开发流程 DevOps, CI-CD.md",
-    "Notes/Others/Interview FQA.md",
-    "References/AI For Games/C1 What is AI.md",
-    "References/AI For Games/C2 Game AI.md",
-    "References/AI For Games/C3 Movement.md",
-    "References/AI For Games/C4 Pathfinding.md",
-    "References/AI For Games/C5 Decision Making.md",
-    "References/AI For Games/C6 Tactical and Strategic AI.md",
-    "References/AI For Games/C7 Learning.md",
-    "References/AI For Games/C8 Board Games.md"
+    "References/MIT-6.034 Artificial Intelligence/L23 Model Merging, Cross-Modal Coupling, Course Summary.md",
+    "Zettelkasten/游戏客户端的优化的经验.md",
+    "Templates/Note.md",
+    "Templates/Reference.md",
+    "Templates/Idea.md",
+    "References/What’s LLVM.md",
+    "Zettelkasten/5.md",
+    "Zettelkasten/4.md",
+    "Zettelkasten/Http,Https的区别.md",
+    "Zettelkasten/().md"
   ]
 }
