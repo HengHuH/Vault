@@ -1,7 +1,6 @@
-# Notes
 My notes based on Zettelkasten
 
-## 文件夹
+## Directory
 - Zettelkasten：Atomic Ideas
 - Reference：书籍，课程的引用
 - Files：附件，图片等
