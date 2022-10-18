@@ -20,19 +20,31 @@
             }
           },
           {
-            "id": "7a6da30c0b8593e5",
+            "id": "08fb2cb0dfc59ec7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Work/Carnival开发经验分享（讲稿）.md",
+                "file": "References/Computer animation algorithms and techniques/C1 Intrduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a3815c80cd31cb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/Computer animation algorithms and techniques/C12 Special Models for Animation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Work/Carnival开发经验分享（讲稿）.md",
+                "file": "References/Computer animation algorithms and techniques/C12 Special Models for Animation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Work/Carnival开发经验分享（讲稿）.md",
+                "file": "References/Computer animation algorithms and techniques/C12 Special Models for Animation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Work/Carnival开发经验分享（讲稿）.md"
+                "file": "References/Computer animation algorithms and techniques/C12 Special Models for Animation.md"
               }
             }
           }
@@ -152,17 +164,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "7a6da30c0b8593e5",
+  "active": "0a3815c80cd31cb1",
   "lastOpenFiles": [
-    "References/MIT-6.034 Artificial Intelligence/L10 Introduction to Learning, Nearest Neighbors.md",
-    "References/MIT-6.034 Artificial Intelligence/L11 Learning, Identification Trees, Disorder.md",
-    "References/MIT-6.034 Artificial Intelligence/L12 Learning, Neural Nets, Back Propagation.md",
-    "References/MIT-6.034 Artificial Intelligence/L13 Learning, Genetic Algorithms.md",
-    "References/MIT-6.034 Artificial Intelligence/L14 Learning, Sparse Sapce, Phonology.md",
-    "References/MIT-6.034 Artificial Intelligence/L15 Learning, Near Misses, Felicity Conditions.md",
-    "References/MIT-6.034 Artificial Intelligence/L16 Learning, Support Vector Machine.md",
-    "References/MIT-6.034 Artificial Intelligence/L17 Learning, Boosting Boosting.md",
-    "References/MIT-6.034 Artificial Intelligence/L18 Representations, Classes, Trajectories, Transitions.md",
-    "References/MIT-6.034 Artificial Intelligence/L19 Architectures, GPS, SOAR, Subsumption, Society of Mind.md"
+    "References/Computer animation algorithms and techniques/C11 Behavioral Animation.md",
+    "References/Computer animation algorithms and techniques/C10 Facial Animation.md",
+    "References/Computer animation algorithms and techniques/C9 Modeling and Animating Human Figures.md",
+    "References/Computer animation algorithms and techniques/C8 Fluids, Liquids and Gases.md",
+    "References/Computer animation algorithms and techniques/C7 Physically Based Animation.md",
+    "References/Computer animation algorithms and techniques/C6 Motion Capture.md",
+    "References/Computer animation algorithms and techniques/C5 Kinematic Linkages.md",
+    "References/Computer animation algorithms and techniques/C4 Interpolation-Based Animation.md",
+    "References/Computer animation algorithms and techniques/C3 Interpolating Values.md",
+    "References/Computer animation algorithms and techniques/C1 Intrduction.md"
   ]
 }
