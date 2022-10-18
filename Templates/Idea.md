@@ -3,7 +3,7 @@ Status: #idea
 Tags:
 
 ---
-
+# {{title}}
 
 
 ---

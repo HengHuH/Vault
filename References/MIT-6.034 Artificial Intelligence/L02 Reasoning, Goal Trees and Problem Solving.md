@@ -1,3 +1,10 @@
+2022-10-18, 17:12
+Status: #reference 
+Tags: #AI
+
+---
+# L02 Reasoning, Goal Trees and Problem Solving
+
 推理：目标树与问题求解
 
 Modeling Problem Solving

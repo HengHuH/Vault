@@ -1,4 +1,9 @@
-Introduction and Scope
+2022-10-18, 17:12
+Status: #reference 
+Tags: #AI
+
+---
+# Introduction and Scope
 
 什么是人工智能，课程介绍
 

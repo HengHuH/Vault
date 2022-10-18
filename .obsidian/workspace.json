@@ -4,71 +4,155 @@
     "type": "split",
     "children": [
       {
-        "id": "3b728bc79d443422",
+        "id": "6532cf5b3b963866",
         "type": "tabs",
         "children": [
           {
-            "id": "290662816710ec3d",
+            "id": "f3ade1759fb364e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "References/MIT-6.034 Artificial Intelligence/L10 Introduction to Learning, Nearest Neighbors.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3464093c557c00ff",
+            "id": "111c8d57849f47d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Others/Interview FQA.md",
+                "file": "References/MIT-6.034 Artificial Intelligence/L11 Learning, Identification Trees, Disorder.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "118eadbe77bfc143",
+            "id": "a3ec6475853cd26e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Others/Interview FQA.md",
+                "file": "References/MIT-6.034 Artificial Intelligence/L12 Learning, Neural Nets, Back Propagation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d42e49772d09f485",
+            "id": "9aa451a31b0aadd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Work/My Toolset.md",
+                "file": "References/MIT-6.034 Artificial Intelligence/L13 Learning, Genetic Algorithms.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "55b55d278af22a3e",
+            "id": "b025ae40c0fc12c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Work/游戏中常用的空间数据结构.md",
+                "file": "References/MIT-6.034 Artificial Intelligence/L14 Learning, Sparse Sapce, Phonology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38e3ef265ab46789",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/MIT-6.034 Artificial Intelligence/L15 Learning, Near Misses, Felicity Conditions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae695602276a5131",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/MIT-6.034 Artificial Intelligence/L16 Learning, Support Vector Machine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7ef902dd58f6999",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/MIT-6.034 Artificial Intelligence/L17 Learning, Boosting Boosting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30486750d1b7d4cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/MIT-6.034 Artificial Intelligence/L18 Representations, Classes, Trajectories, Transitions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b22a716fd6d7adc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/MIT-6.034 Artificial Intelligence/L19 Architectures, GPS, SOAR, Subsumption, Society of Mind.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3da87186e647dbcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/MIT-6.034 Artificial Intelligence/L21 Probabilistic Inference 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94c9b466ed97f611",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/MIT-6.034 Artificial Intelligence/L23 Model Merging, Cross-Modal Coupling, Course Summary.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -134,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Work/游戏中常用的空间数据结构.md",
+                "file": "References/MIT-6.034 Artificial Intelligence/L23 Model Merging, Cross-Modal Coupling, Course Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Work/游戏中常用的空间数据结构.md",
+                "file": "References/MIT-6.034 Artificial Intelligence/L23 Model Merging, Cross-Modal Coupling, Course Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Work/游戏中常用的空间数据结构.md"
+                "file": "References/MIT-6.034 Artificial Intelligence/L23 Model Merging, Cross-Modal Coupling, Course Summary.md"
               }
             }
           }
@@ -188,17 +272,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "55b55d278af22a3e",
+  "active": "94c9b466ed97f611",
   "lastOpenFiles": [
-    "Notes/Work/Lua 风格指南.md",
-    "Notes/Work/游戏中常用的空间数据结构.md",
-    "Notes/Work/开发流程 DevOps, CI-CD.md",
-    "Files/ci-cd-1.jpg",
-    "Files/ci-cd-2.jpg",
-    "Templates/Note.md",
-    "Files.md",
-    "Notes/Work/My Toolset.md",
-    "Notes/Others/Interview FQA.md",
-    "Templates/Date.md"
+    "References/MIT-6.034 Artificial Intelligence/L17 Learning, Boosting Boosting.md",
+    "References/MIT-6.034 Artificial Intelligence/L18 Representations, Classes, Trajectories, Transitions.md",
+    "References/MIT-6.034 Artificial Intelligence/L19 Architectures, GPS, SOAR, Subsumption, Society of Mind.md",
+    "References/MIT-6.034 Artificial Intelligence/L21 Probabilistic Inference 1.md",
+    "References/MIT-6.034 Artificial Intelligence/L23 Model Merging, Cross-Modal Coupling, Course Summary.md",
+    "References/MIT-6.034 Artificial Intelligence/L16 Learning, Support Vector Machine.md",
+    "References/MIT-6.034 Artificial Intelligence/L15 Learning, Near Misses, Felicity Conditions.md",
+    "References/MIT-6.034 Artificial Intelligence/L14 Learning, Sparse Sapce, Phonology.md",
+    "References/MIT-6.034 Artificial Intelligence/L13 Learning, Genetic Algorithms.md",
+    "References/MIT-6.034 Artificial Intelligence/L12 Learning, Neural Nets, Back Propagation.md"
   ]
 }
