@@ -13,22 +13,218 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/TNotes.md",
+                "file": "References/MIT-LinearAlgebra/L14 正交向量和正交子空间.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a1c0c5a3c9c68100",
+            "id": "3a16a453352c121b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "References/MIT-LinearAlgebra/L15 投影.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "adf2aeb69ab00512",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/MIT-LinearAlgebra/L16 投影矩阵和最小二乘.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a7980d26fbcabbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/MIT-LinearAlgebra/L17 正交矩阵和正交化.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf2f5851fb8d30be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/MIT-LinearAlgebra/L18 行列式及性质.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7670897cdea36b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/MIT-LinearAlgebra/L19 行列式公式及代数余子项.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a51111c84fe78a49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/MIT-LinearAlgebra/L20 行列式应用：卡拉默法则、逆矩阵、体积.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b2cc83de4ff8ebd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/MIT-LinearAlgebra/L21 特征值和特征向量.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ddf2eba1785e4ba8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/MIT-LinearAlgebra/L22 对角化和矩阵乘幂.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd3857c9c4097d53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/MIT-LinearAlgebra/L23 微分方程和 exp(At).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2874acc2fbbdf52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/MIT-LinearAlgebra/L24 马尔科夫矩阵和傅里叶级数.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "938fe4c851afe150",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/MIT-LinearAlgebra/L25 对称矩阵和正定矩阵.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac179aa33eb7fdb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/MIT-LinearAlgebra/L26 复矩阵和快速傅里叶变换.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d591af1c4d7f3b36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/MIT-LinearAlgebra/L01 方程组的几何解释.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77ccb123233a0247",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/MIT-LinearAlgebra/L28 相似矩阵和若尔当标准型.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "046cd2defa2d458d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/MIT-LinearAlgebra/L29 奇异值分解.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0afb52f469baf049",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/MIT-LinearAlgebra/L30 线性变换及对应矩阵.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b7daa3221d3caa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/MIT-LinearAlgebra/L31 基变换及图像压缩.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -94,6 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "References/MIT-LinearAlgebra/L31 基变换及图像压缩.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "References/MIT-LinearAlgebra/L31 基变换及图像压缩.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +329,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "References/MIT-LinearAlgebra/L31 基变换及图像压缩.md"
+              }
             }
           }
         ]
@@ -144,8 +344,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "0791f6b4d3cc798b",
+  "active": "8b7daa3221d3caa1",
   "lastOpenFiles": [
-    "Templates/TNotes.md"
+    "References/MIT-LinearAlgebra/L30 线性变换及对应矩阵.md",
+    "References/MIT-LinearAlgebra/L29 奇异值分解.md",
+    "References/MIT-LinearAlgebra/L28 相似矩阵和若尔当标准型.md",
+    "References/MIT-LinearAlgebra/L27 正定矩阵.md",
+    "References/MIT-LinearAlgebra/L26 复矩阵和快速傅里叶变换.md",
+    "References/MIT-LinearAlgebra/L25 对称矩阵和正定矩阵.md",
+    "References/MIT-LinearAlgebra/L24 马尔科夫矩阵和傅里叶级数.md",
+    "References/MIT-LinearAlgebra/L23 微分方程和 exp(At).md",
+    "References/MIT-LinearAlgebra/L22 对角化和矩阵乘幂.md",
+    "References/MIT-LinearAlgebra/L21 特征值和特征向量.md"
   ]
 }
