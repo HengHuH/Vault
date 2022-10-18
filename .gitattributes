@@ -8,5 +8,6 @@
 # Denote files that are truly binary and should not be modifies.
 *.png binary
 *.jpg binary
-*.pptx
-*.word
+*.jpeg binary
+*.pptx binary
+*.word binary
