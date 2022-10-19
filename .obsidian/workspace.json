@@ -18,8 +18,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4e1f49a9a5c19f4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/websocket, socket 的区别.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67741485bab11ba3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Others/Helen AI 系统学习记录.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "223a23fde4b73057",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Http,Https的区别.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f0a99733e51961b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Aliases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -69,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 427.5
   },
   "right": {
     "id": "72f8acf711ad2196",
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/AI For Games/C1 What is AI.md",
+                "file": "Templates/Aliases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/AI For Games/C1 What is AI.md",
+                "file": "Templates/Aliases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "References/AI For Games/C1 What is AI.md"
+                "file": "Templates/Aliases.md"
               }
             }
           }
@@ -138,17 +187,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4887588ae2f98d8a",
+  "active": "3f0a99733e51961b",
   "lastOpenFiles": [
-    "References/MIT-6.034 Artificial Intelligence/L23 Model Merging, Cross-Modal Coupling, Course Summary.md",
-    "Zettelkasten/游戏客户端的优化的经验.md",
-    "Templates/Note.md",
-    "Templates/Reference.md",
-    "Templates/Idea.md",
-    "References/What’s LLVM.md",
-    "Zettelkasten/5.md",
-    "Zettelkasten/4.md",
+    "Zettelkasten/websocket, socket 的区别.md",
     "Zettelkasten/Http,Https的区别.md",
-    "Zettelkasten/().md"
+    "Templates/Aliases.md",
+    "Zettelkasten/游戏客户端的优化的经验.md",
+    "References/AI For Games/C5 Decision Making.md",
+    "Notes/Others/Helen AI 系统学习记录.md",
+    "References/GOAP.md",
+    "References/AI For Games/C1 What is AI.md",
+    "References/MIT 微积分重点.md",
+    "References/通用帧同步框架.md"
   ]
 }

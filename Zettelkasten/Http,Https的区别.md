@@ -9,6 +9,4 @@ Web服务器启用SSL需要获得一个服务器证书并将该证书与要使�
 
 ---
 # References
-
-![hha]()
-[Haha Chapter 1]()
+[[websocket, socket 的区别|network]]
