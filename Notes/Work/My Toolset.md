@@ -5,99 +5,98 @@ Tags: #toolset
 ---
 Basic
 
-    + Data Structure
-    + Algorithm
-    + OS
+- Data Structure
+- Algorithm
+- OS
 
 Editor
 
-    + Visual Studio Code
-    + Vim
-    + Markdown
-    + LaTex
+- Visual Studio Code
+- Vim
+- Markdown
+- LaTex
 
 Language
 
-    + C
-    + Lua
-    + Python
-    + Cpp
+- C
+- Lua
+- Python
+- Cpp
 
 Build
 
-    + make
-    + ninja
-    + gn
-    + cmake
-    + xmake
+- make
+- ninja
+- gn
+- cmake
+- xmake
 
 Compiler & DeCompiler
 
-    + gcc
-    + clang
-    + dotpeek, Free .NET Decompiler and Assembly Browser
+- gcc
+- clang
+- dotpeek, Free .NET Decompiler and Assembly Browser
 
 Shell
 
-    + Bash
-    + Batch
-    + zsh
-    + fish
-    + powershell
+- Bash
+- Batch
+- zsh
+- fish
+- powershell 
 
 Debug
-
-    + GDB
-    + VS
+- GDB
+- VS
 
 Version Manager
-
-    + Git
-    + SVN
+   
+- Git
+- SVN
 
 DataBase
 
-    + SQL
-    + Mongo
-    + Redis
+- SQL
+- Mongo
+- Redis
 
 Network
 
-    + Http
-    + TCP
-    + UDP
-    + KCP
+- Http
+- TCP
+- UDP
+- KCP
 
 Serialize & Deserialize
 
-    + protobuf
-    + flatbuffer
-    + Json
-    + Msgpack
-    + Bson
+- protobuf
+- flatbuffer
+- Json
+- Msgpack
+- Bson
 
 Profiler
 
-    + Unity UPR
+- Unity UPR
 
 GUI
 
-    + QT
-    + Imgui
+- QT
+- Imgui
 
 容器和部署
 
-    + Docker
-    + K8S
+- Docker
+- K8S
 
 CI/CD
 
-    + Jenkins
+- Jenkins
 
 Game Engine
 
-    + Messiah
-    + Unity
-    + UE4
-    + Cososx，Egret
+- Messiah
+- Unity
+- UE4
+- Cososx，Egret
     

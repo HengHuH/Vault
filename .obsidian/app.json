@@ -2,5 +2,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "Zettelkasten",
   "attachmentFolderPath": "Files",
-  "promptDelete": false
+  "promptDelete": false,
+  "vimMode": false
 }
