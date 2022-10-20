@@ -1,3 +1,7 @@
+---
+aliases: [Lua Code Style]
+---
+
 2022-10-18, 16:28
 Status: #note
 Tags: #Lua #Code

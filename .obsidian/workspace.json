@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/websocket, socket 的区别.md",
+                "file": "References/通用帧同步框架.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Work/Messiah Engine 设计概要.md",
+                "file": "References/通用帧同步框架.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Work/Messiah Engine 设计概要.md",
+                "file": "References/通用帧同步框架.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Work/Messiah Engine 设计概要.md"
+                "file": "References/通用帧同步框架.md"
               }
             }
           }
@@ -175,17 +175,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f623207389875892",
+  "active": "4e1f49a9a5c19f4b",
   "lastOpenFiles": [
-    "Notes/Work/NXGUI系统设计.md",
+    "References/二十大金句.md",
     "README.md",
-    "Notes/Work/Lua 风格指南.md",
-    "Notes/Work/My Toolset.md",
-    "Notes/Work/Carnival开发经验分享（讲稿）.md",
-    "Notes/Work/游戏中常用的空间数据结构.md",
-    "Notes/Work/开发流程 DevOps, CI-CD.md",
     "Notes/Others/Interview FQA.md",
     "Notes/Others/Helen AI 系统学习记录.md",
-    "References/What’s LLVM.md"
+    "Notes/Work/NXGUI系统设计.md",
+    "Notes/Work/My Toolset.md",
+    "Notes/Work/Messiah Engine 设计概要.md",
+    "Notes/Work/Lua 风格指南.md",
+    "Notes/Work/Carnival开发经验分享（讲稿）.md",
+    "Notes/Work/游戏中常用的空间数据结构.md"
   ]
 }
