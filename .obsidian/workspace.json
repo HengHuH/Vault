@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Work/My Toolset.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e2e75b60187706d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Work/NXGUI系统设计.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f623207389875892",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Work/Messiah Engine 设计概要.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Work/My Toolset.md",
+                "file": "Notes/Work/Messiah Engine 设计概要.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Work/My Toolset.md",
+                "file": "Notes/Work/Messiah Engine 设计概要.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Work/My Toolset.md"
+                "file": "Notes/Work/Messiah Engine 设计概要.md"
               }
             }
           }
@@ -150,17 +175,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4887588ae2f98d8a",
+  "active": "f623207389875892",
   "lastOpenFiles": [
+    "Notes/Work/NXGUI系统设计.md",
+    "README.md",
     "Notes/Work/Lua 风格指南.md",
+    "Notes/Work/My Toolset.md",
     "Notes/Work/Carnival开发经验分享（讲稿）.md",
     "Notes/Work/游戏中常用的空间数据结构.md",
     "Notes/Work/开发流程 DevOps, CI-CD.md",
     "Notes/Others/Interview FQA.md",
     "Notes/Others/Helen AI 系统学习记录.md",
-    "References/What’s LLVM.md",
-    "References/MIT 微积分重点.md",
-    "References/GOAP.md",
-    "References/通用帧同步框架.md"
+    "References/What’s LLVM.md"
   ]
 }
