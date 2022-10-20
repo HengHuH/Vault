@@ -61,14 +61,110 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Zettelkasten/游戏客户端的优化的经验.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "238544d82c0186b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Spiderman新经理觉醒计划/01 管理角色认知.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "639f70d55ad78dcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Spiderman新经理觉醒计划/01 管理角色认知.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbaa663527fdc91a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Spiderman新经理觉醒计划/03 辅导.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65035b78966db695",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Spiderman新经理觉醒计划/02 向上管理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7411444d9eec9ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Spiderman新经理觉醒计划/05 项目管理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f37fa4cc1bf4071",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Spiderman新经理觉醒计划/06 MBTI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e2e40e6f22e9200",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Spiderman新经理觉醒计划/07 问题分析.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11214abcae91daaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Spiderman新经理觉醒计划/02 向上管理.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -134,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Notes/Spiderman新经理觉醒计划/02 向上管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Notes/Spiderman新经理觉醒计划/02 向上管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Notes/Spiderman新经理觉醒计划/02 向上管理.md"
               }
             }
           }
@@ -187,17 +283,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d963003518e5c626",
+  "active": "11214abcae91daaa",
   "lastOpenFiles": [
-    "Notes/编程语言/Lua 风格指南.md",
-    "Notes/Work/Interview FQA.md",
-    "Notes/GamePlay/游戏中常用的空间数据结构.md",
-    "Files/ai-game.png",
-    "Files/ci-cd-1.jpg",
-    "Files/ci-cd-2.jpg",
-    "Files/vtb-1.png",
-    "Files/vtb-3.png",
-    "Files/wjfvd-3.png",
-    "Files/wjfvd-2.png"
+    "Notes/Spiderman新经理觉醒计划/08 管理日历与习惯.md",
+    "Notes/Spiderman新经理觉醒计划/07 问题分析.md",
+    "Notes/Spiderman新经理觉醒计划/06 MBTI.md",
+    "Notes/Spiderman新经理觉醒计划/05 项目管理.md",
+    "Notes/Spiderman新经理觉醒计划/02 向上管理.md",
+    "Notes/Spiderman新经理觉醒计划/01 管理角色认知.md",
+    "Notes/Spiderman新经理觉醒计划/04 激励授权.md",
+    "Notes/Spiderman新经理觉醒计划/03 辅导.md",
+    "Zettelkasten/游戏客户端的优化的经验.md",
+    "Zettelkasten/Http,Https的区别.md"
   ]
 }
