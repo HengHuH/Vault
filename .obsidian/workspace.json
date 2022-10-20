@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Work/NXGUI系统设计.md",
+                "file": "Notes/游戏引擎/NXGUI系统设计.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Work/Messiah Engine 设计概要.md",
+                "file": "Notes/游戏引擎/Messiah Engine 设计概要.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "References/通用帧同步框架.md",
+                "file": "Zettelkasten/Http,Https的区别.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d963003518e5c626",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/通用帧同步框架.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/通用帧同步框架.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "References/通用帧同步框架.md"
+                "file": "README.md"
               }
             }
           }
@@ -175,17 +187,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4e1f49a9a5c19f4b",
+  "active": "d963003518e5c626",
   "lastOpenFiles": [
-    "References/二十大金句.md",
-    "README.md",
-    "Notes/Others/Interview FQA.md",
-    "Notes/Others/Helen AI 系统学习记录.md",
-    "Notes/Work/NXGUI系统设计.md",
-    "Notes/Work/My Toolset.md",
-    "Notes/Work/Messiah Engine 设计概要.md",
-    "Notes/Work/Lua 风格指南.md",
-    "Notes/Work/Carnival开发经验分享（讲稿）.md",
-    "Notes/Work/游戏中常用的空间数据结构.md"
+    "Notes/编程语言/Lua 风格指南.md",
+    "Notes/Work/Interview FQA.md",
+    "Notes/GamePlay/游戏中常用的空间数据结构.md",
+    "Files/ai-game.png",
+    "Files/ci-cd-1.jpg",
+    "Files/ci-cd-2.jpg",
+    "Files/vtb-1.png",
+    "Files/vtb-3.png",
+    "Files/wjfvd-3.png",
+    "Files/wjfvd-2.png"
   ]
 }

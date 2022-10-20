@@ -17,8 +17,6 @@ Tags: #game #AI
 
 ## Action 行动
 
-^ebddea
-
 - 世界状态判定用二进制表示
 - ActionUnit，可用以切换AI配置，从远程小怪切换到近战小怪
 - 多通道，同时执行多个Action Chain，可实现上下半身执行不同 Action Chain

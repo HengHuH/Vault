@@ -7,7 +7,7 @@ My notes based on Zettelkasten
 # Directory
 
 - Zettelkasten：Atomic Ideas
-- Reference：书籍、课程的阅读笔记和索引
+- Reference：参考资料，书籍和课程的阅读笔记
 - Notes：总结、小文章
 - Files：图片、PDF等附件
 - Template：模板
