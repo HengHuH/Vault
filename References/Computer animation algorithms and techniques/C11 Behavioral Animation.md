@@ -1,8 +1,9 @@
 2022-10-18, 18:30
-Status: #reference 
-Tags: #animation #game_dev 
+Status: #reference
+Tags: #animation #game_dev
 
 ---
+
 # Behavioral Animation
 
 Cognitive modeling

@@ -1,10 +1,10 @@
 2022-10-19, 14:57
-Status: #reference 
+Status: #reference
 Tags: #AI #game #GOAP
 
 ---
-# GOAP
 
+# GOAP
 
 GOAP: Global-Oriented Action Planning，
 

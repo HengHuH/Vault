@@ -1,6 +1,6 @@
 2022-10-18, 17:46
-Status: #reference 
-Tags: #AI 
+Status: #reference
+Tags: #AI
 
 ---
 # Representations: Classes, Trajectories, Transitions

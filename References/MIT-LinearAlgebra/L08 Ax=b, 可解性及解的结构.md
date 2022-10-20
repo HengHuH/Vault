@@ -1,8 +1,11 @@
 2022-10-18, 15:42
-Status: #reference 
-Tags: #math #LinearAlgebra 
+Status: #reference
+Tags: #math #LinearAlgebra
 
 ---
+
+# Ax=b, 可解性及解的结构
+
 $$\begin{bmatrix}1&2&2&3\\0&0&2&4\\0&0&0&0\end{bmatrix}x=\begin{bmatrix}b1\\b2\\b3\end{bmatrix}$$
 
 step1，列出增广矩阵, $\begin{bmatrix}A&b\end{bmatrix}$
@@ -20,6 +23,7 @@ step2，消元
 **对于方程组某解，其与零空间内任意向量之和仍为解。**
 
 m by n matrix A of rank r.
+
 - r=m=n, R=I, 对任意b有唯一解
 - r=n<m, $R=\begin{bmatrix}I\\0\end{bmatrix}$, 0或1个解
 - r=m<n, $R=\begin{bmatrix}I&F\end{bmatrix}$，无穷多解

@@ -3,6 +3,7 @@ Status: #note
 Tags: #game #engine #Messiah
 
 ---
+
 # Messiah Engine 设计概要
 
 ## 全局设计 & 执行引擎设计
@@ -236,6 +237,7 @@ ResourceObject
 ResourceItem
 
 资源分类：
+
 1. 仓库资源：Mesh，SkinSkeleton，Texture，Material，Model，Effect，Terrain，NavigateMap，Physics，PointClound，VisibilityCube，Sound，Curve
 2. 角色动画相关：graph，skeleton，animation
 3. worlds，Script，cocos，audio，video，Font，
@@ -356,5 +358,3 @@ Big Patch List 解决小文件过多，http 连接多，下载慢的问题
 ## 调试及开发工具
 
 ## Shader
-
-

@@ -1,8 +1,9 @@
 2022-10-18, 18:27
-Status: #reference 
-Tags: #animation #game_dev 
+Status: #reference
+Tags: #animation #game_dev
 
 ---
+
 # Interpolation-Based Animation
 
 4.1 Key-frame systems

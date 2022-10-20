@@ -1,15 +1,16 @@
 2022-10-18, 17:40
-Status: #reference 
-Tags: #AI 
+Status: #reference
+Tags: #AI
 
 ---
+
 # Learning, Genetic Algorithms
 
 学习：遗传算法
 
 一种仿生尝试，模仿进化的一种很朴素的尝试
 
-有丝分裂 
+有丝分裂
 
 There are lots of choices in there and that means there are lots of choices to intervene.
 
@@ -30,7 +31,7 @@ There are lots of choices in there and that means there are lots of choices to i
 思路
 
 1. 概率空间， Pi = Fi / Sum(F)
-2. 排序空间， 考虑候选者适应性的排序， 
+2. 排序空间， 考虑候选者适应性的排序，
 
     P1 = Pc
     P2 = (1-Pc)*Pc
@@ -47,21 +48,21 @@ There are lots of choices in there and that means there are lots of choices to i
 
 启发：
 
-	What does mutation do ? It's basically hill climbing. It's producing a little spread out, and you're using the fitness thing to climb the hill.
-
-	What does crossover do? It kinda combines strong features of multiple individuals into one individual maybe.
+> What does mutation do ? It's basically hill climbing. It's producing a little spread out, and you're using the fitness thing to climb the hill.
+>
+> What does crossover do? It kinda combines strong features of multiple individuals into one individual maybe.
 
 Ask Where The Credit lies?
 
 问题：
 
-	It's naive nature and 就进化理论而言这很糟糕，很朴素。So we like to use real evolutionary theory, but we dont have real evolutionary theory, and evolution is still a mystery.
+It's naive nature and 就进化理论而言这很糟糕，很朴素。So we like to use real evolutionary theory, but we dont have real evolutionary theory, and evolution is still a mystery.
 
 一些应用：
 
-	What kinda problem does a good front piece combine with a good backpiece to produce a good thing overall.
-
-	And the answer is when you're making a plan.
+> What kinda problem does a good front piece combine with a good backpiece to produce a good thing overall.
+>
+> And the answer is when you're making a plan.
 
 1. 做计划的应用，将染色体转换为多个步骤的计划
 2. 赛马预测，可突变和互换的专家系统

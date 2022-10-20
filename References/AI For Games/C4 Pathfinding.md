@@ -1,8 +1,9 @@
 2022-10-18, 18:45
-Status: #reference 
-Tags: #game #AI 
+Status: #reference
+Tags: #game #AI
 
 ---
+
 # C4 Pathfinding
 
 Pathfinding algorithms use a type of graph called a directed non-negative weighted graph. 

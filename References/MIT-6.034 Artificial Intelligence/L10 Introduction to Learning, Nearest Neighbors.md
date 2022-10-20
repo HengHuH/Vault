@@ -1,10 +1,10 @@
 2022-10-18, 17:31
-Status: #reference 
-Tags: #AI 
+Status: #reference
+Tags: #AI
 
 ---
-# L10 Introduction to Learning, Nearest Neighbors
 
+# L10 Introduction to Learning, Nearest Neighbors
 
 学习介绍、最近邻
 
@@ -45,9 +45,9 @@ There is a kind of weak principle of if something is similar in some respects, i
 
 问题：
 
-1.  样本空间不均匀。希望数据散布再所有维度都大致相同。解决：Normalize 正规化数据
-2.  What Matters 问题
-3.  答案完全不依赖数据，巧妇难为无米之炊（No Cake Without Flower)
+1. 样本空间不均匀。希望数据散布再所有维度都大致相同。解决：Normalize 正规化数据
+2. What Matters 问题
+3. 答案完全不依赖数据，巧妇难为无米之炊（No Cake Without Flower)
 
 关于睡眠，睡眠不足会严重降低能力！！！！
 

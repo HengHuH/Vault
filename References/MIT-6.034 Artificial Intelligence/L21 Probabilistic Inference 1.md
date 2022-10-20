@@ -1,8 +1,9 @@
 2022-10-18, 17:48
-Status: #reference 
-Tags: #AI 
+Status: #reference
+Tags: #AI
 
 ---
+
 # Probabilistic Inference 1
 
 概率推理 1
@@ -10,9 +11,7 @@ Tags: #AI
 概率统计表，行数过多，收集统计数据太难了。。
 Belef networks 信念网络
 
-
 从概率论数学上证明
-
 
 链式法则
 概率的局部性
@@ -20,7 +19,6 @@ Belef networks 信念网络
 
 概率图（贝叶斯网络，推理网络 ） 计算出 整张联合概率表
 建立贝叶斯网络时人类会对事物之间是否相互依赖进行断言
-
 
 无环
 

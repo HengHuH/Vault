@@ -1,8 +1,9 @@
 2022-10-18, 18:22
-Status: #reference 
+Status: #reference
 Tags: #animation #game
 
 ---
+
 # Intrduction
 
 Three general approaches to motion control
@@ -15,12 +16,7 @@ There are actually two rates of concern, One is the playback or refresh rate. Th
 
 1.3.1 Principles of animation
 
-	* 
-Simulating physics
-	* 
-Designing aesthetically pleasing actions
-	* 
-Effectivly presenting action
-	* 
-Production technique
-
+* Simulating physics
+* Designing aesthetically pleasing actions
+* Effectivly presenting action
+* Production technique

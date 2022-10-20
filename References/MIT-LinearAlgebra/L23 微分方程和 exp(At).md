@@ -1,8 +1,11 @@
 2022-10-18, 15:54
-Status: #reference 
-Tags: #math #LinearAlgebra 
+Status: #reference
+Tags: #math #LinearAlgebra
 
 ---
+
+# 微分方程和 exp(At)
+
 解一阶导数常系数线性方程
 **常系数线性方程的解是指数形式的**
 

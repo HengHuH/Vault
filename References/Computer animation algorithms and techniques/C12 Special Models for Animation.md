@@ -1,8 +1,9 @@
 2022-10-18, 18:31
-Status: #reference 
-Tags: #game_dev #animation 
+Status: #reference
+Tags: #game_dev #animation
 
 ---
+
 # C12 Special Models for Animation
 
 12.1 Implicit surfaces
@@ -18,5 +19,3 @@ Tags: #game_dev #animation
 12.2.3 Animating plant growth
 
 12.3 Subdivision surfaces
-
-

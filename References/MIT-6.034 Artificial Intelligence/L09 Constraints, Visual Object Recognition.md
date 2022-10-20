@@ -1,20 +1,21 @@
 2022-10-18, 17:28
-Status: #reference 
+Status: #reference
 Tags:
 
 ---
+
 # L09 Constraints: Visual Object Recognition
 
 约束：视觉对象识别
 
 David Marr's Idea
-Camera --> Primal Sketch -> 2.5D  sketch -> Generalized cylinders 
+Camera --> Primal Sketch -> 2.5D  sketch -> Generalized cylinders
 通过库对比， Reconition
 但是太难了，没人能够实现
-  
+
 Alignment Theories （对比理论）
 
-    三个视图可以重建对象的任意正交视图？
+三个视图可以重建对象的任意正交视图？
 
 Image Space
 

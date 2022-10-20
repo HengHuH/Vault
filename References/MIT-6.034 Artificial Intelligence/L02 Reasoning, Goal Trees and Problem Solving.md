@@ -1,15 +1,16 @@
 2022-10-18, 17:12
-Status: #reference 
+Status: #reference
 Tags: #AI
 
 ---
+
 # L02 Reasoning, Goal Trees and Problem Solving
 
 推理：目标树与问题求解
 
 Modeling Problem Solving
 
-    Generate Test
+Generate Test
     Problem Reduction
 
 Problem Reduction Tree
@@ -30,17 +31,17 @@ Skill -> Understand -> Witness
 What kind of knowledge is involved in?
 How is the knowledage represented?
 
-    Table, Transformation, Procedure
+Table, Transformation, Procedure
 
-How is it used? 
+How is it used?
 
 启发：
 
 1. This is a kind of stuff that you should ask anytime you're dealing with a new domain.
-This is meta-knwwledge. This is knowledge about knowledge.
-Knowledge About knowledge is power
+   This is meta-knwwledge. This is knowledge about knowledge.
+   Knowledge About knowledge is power
 
-#2 Catechism
+2 Catechism
 What kind
 How represeted
 How Used

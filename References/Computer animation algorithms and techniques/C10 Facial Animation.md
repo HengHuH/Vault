@@ -1,8 +1,9 @@
 2022-10-18, 18:30
-Status: #reference 
-Tags: #game_dev #animation 
+Status: #reference
+Tags: #game_dev #animation
 
 ---
+
 # Facial Animation
 
 10.1.1 Anatomic structure

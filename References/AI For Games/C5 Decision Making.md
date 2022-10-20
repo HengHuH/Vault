@@ -1,8 +1,9 @@
 2022-10-18, 18:44
-Status: #reference 
-Tags: #game #AI 
+Status: #reference
+Tags: #game #AI
 
 ---
+
 # C5 Decision Making
 
 Most games use very simple decision making system: state machines and decision trees. Rule-based systems are rarer, but important.
@@ -31,20 +32,18 @@ Limitations of behavior trees
 去模糊化
 
 Fuzzy Sets
-Membership of Multiple Sets 
+Membership of Multiple Sets
 Fuzzy Rules
 Fuzzification
 Defuzzification
     Using the Highest Membership
     Blending Based on Membership
     Center of Gravity
-    
     Choosing a Defuzzification Approach, to Boolean Value, Enumerated Value.
 
 Fuzzy State Machine
 
 There are several things we can do with fuzzy logic in order to make decisions. We can use it in any system where we'd normally have traditional logic AND, NOT, and OR. It can be used to determine if transitions in a state machine should fire.
-
 
 5.6 Markov Systems
 
@@ -63,7 +62,6 @@ Timing, In order to make an informed decision as to which action to take, the ch
 
 Overall Utility GOAP
 We consider multiple actions in sequence and try to find the sequence that best meets the character's goals in the long term.
-
 
 5.8 Rule-Based Systems
 是专家系统的一种应用，通常有两部分，包含很多用于AI的知识数据库，if-then 规则集合，有些基于规则的系统还包括 Arbiters（仲裁模块）决定哪些规则可用。

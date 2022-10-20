@@ -1,8 +1,9 @@
 2022-10-18, 18:29
-Status: #reference 
-Tags: #game_dev #animation 
+Status: #reference
+Tags: #game_dev #animation
 
 ---
+
 # Modeling and Animating Human Figures
 
 9.1.1 Representing body geometry

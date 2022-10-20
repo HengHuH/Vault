@@ -1,8 +1,9 @@
 2022-10-18, 18:28
-Status: #reference 
+Status: #reference
 Tags:
 
 ---
+
 # Physically Based Animation
 
 7.1 Basic physica - a review
@@ -11,7 +12,7 @@ Tags:
 7.2.1 Flexible objects
 
 7.3 Particle systems
- some of the common assumptions:
+some of the common assumptions:
 Particles do not collide with other particles.
 Particles do not cast shadows, except in an aggregate sense.
 Particles only cast shadows on the rest of the environment, not on each other.

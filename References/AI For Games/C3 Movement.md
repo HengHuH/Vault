@@ -1,8 +1,9 @@
 2022-10-18, 18:45
-Status: #reference 
-Tags: #game #AI 
+Status: #reference
+Tags: #game #AI
 
 ---
+
 # C3 Movement
 
 3.1 The Basics of movement algorithems
@@ -10,7 +11,7 @@ Tags: #game #AI
 Seek, Wandering
 3.3 Steering Behaviors
 ![[ai_for_games_3_1.png]]
-3.4 Combining Steering Behaviors 
+3.4 Combining Steering Behaviors
 
 3.5 Steering Pipeline
 ![[ai_for_games_3_2.png]]

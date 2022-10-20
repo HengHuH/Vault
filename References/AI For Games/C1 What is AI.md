@@ -1,8 +1,9 @@
 2022-10-18, 18:45
-Status: #reference 
-Tags: #game #AI 
+Status: #reference
+Tags: #game #AI
 
 ---
+
 # C1 What is AI
 
 Aritificial intelligence is about making computers able to perform the thinking tasks that humans and animals are capeble of.
@@ -25,7 +26,7 @@ The effect was a move toward natural computing: techniques inspired by biology o
 
 Movement refer to algorithms that turn decisions into some kind of motion.
 Decision making involves a character working out waht to do next.
-You can go a long way with movement AI and decision making AI, and most action-based three-dimensional games use only these two elements. But to coordinate a whole team, some strategic AI is required. 
+You can go a long way with movement AI and decision making AI, and most action-based three-dimensional games use only these two elements. But to coordinate a whole team, some strategic AI is required.
 Each character in the group may have their own decision making and movement algorithms, but overall their decision making will be influenced by a group strategy.
 
 1.2.4 Infrastructure
@@ -47,4 +48,3 @@ Algorithm
 * Particular implementation nodes
 * Analysis of the algorithm's perormance
 * Weakness in the approach
-

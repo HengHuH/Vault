@@ -1,8 +1,9 @@
 2022-10-18, 17:37
-Status: #reference 
+Status: #reference
 Tags:
 
 ---
+
 # Learning, Identification Trees, Disorder
 
 学习：识别树、无序
@@ -11,12 +12,12 @@ Tags:
 
 与最近邻问题有些不同，
 
--   Symbolic， 数据集的显著差别：Not numerical data, this is symbolic （不是数值数据，而是符号数据）
--   Some Don't Matter
--   Some Matter only Some time
--   Cost, 有些测试比其他测试代价更大
+- Symbolic， 数据集的显著差别：Not numerical data, this is symbolic （不是数值数据，而是符号数据）
+- Some Don't Matter
+- Some Matter only Some time
+- Cost, 有些测试比其他测试代价更大
   
-需要建立一棵测试树，The question become how do you arrage the tests in a tree, so as to do the identification that you want to do. 
+需要建立一棵测试树，The question become how do you arrage the tests in a tree, so as to do the identification that you want to do.
 
 Identification Tree 和 Decision Tree 类似
 
@@ -39,13 +40,11 @@ Identification Tree 和 Decision Tree 类似
 
     Q(Test) = Sum( D(Set) * (number of Samples in Set) / The Number of Samples handle by test) )
 
-优点：
-
-    Don't use all the tests, use only the test that seems to be doing some useful work
+优点：  
+Don't use all the tests, use only the test that seems to be doing some useful work
   
-启发：
-
-	Now the first heuristic of a good life is when you have a problem to solve, ask somebody who knows the answer.
+启发：  
+Now the first heuristic of a good life is when you have a problem to solve, ask somebody who knows the answer.
 
 信息论中度量无序度：设一系列二进制值的集合
 

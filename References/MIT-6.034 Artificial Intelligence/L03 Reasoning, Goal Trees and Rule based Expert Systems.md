@@ -1,8 +1,9 @@
 2022-10-18, 17:09
-Status: #reference 
-Tags: #AI 
+Status: #reference
+Tags: #AI
 
 ---
+
 # Reasoning: Goal Trees and Rule-based Expert Systems
 
 推理：目标树和基于规则的专家系统
@@ -32,7 +33,7 @@ Rule-Based System
 Forward-Chaining Rule-Based Expert System
 Backward-Chaining Rule-Based Expert System
 
- Deduction System 演绎系统，因为他们是从事实推演出新的事实，在演绎系统中，什么你都不能拿走
+Deduction System 演绎系统，因为他们是从事实推演出新的事实，在演绎系统中，什么你都不能拿走
 
 案例：装袋系统
 
@@ -40,8 +41,8 @@ Backward-Chaining Rule-Based Expert System
 
 Principles of Knowledge Engineering
 
-    Deal with specific cases
+Deal with specific cases
 
-    Ask questions about things that appear to be the same but are actually handled differently
+Ask questions about things that appear to be the same but are actually handled differently
 
-    Build a system and you see when it cracks. This is a gold idea having to do with enginerring yourself.
+Build a system and you see when it cracks. This is a gold idea having to do with enginerring yourself.

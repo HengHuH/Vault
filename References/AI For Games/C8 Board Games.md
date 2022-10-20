@@ -1,8 +1,9 @@
 2022-10-18, 18:44
-Status: #reference 
-Tags: #game #AI 
+Status: #reference
+Tags: #game #AI
 
 ---
+
 # C8 Board Games
 
 棋盘游戏

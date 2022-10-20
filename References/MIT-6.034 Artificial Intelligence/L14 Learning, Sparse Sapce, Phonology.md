@@ -1,8 +1,9 @@
 2022-10-18, 17:43
-Status: #reference 
-Tags: #AI 
+Status: #reference
+Tags: #AI
 
 ---
+
 # Learning: Sparse Sapce, Phonology
 
 学习：稀疏空间、音韵学
@@ -37,18 +38,18 @@ Yip 认为它能奏效的原因在于这是一个稀疏空间，对于高维稀�
 
 空间维度越高，找到区分数据的平面就越容易
 
-#1 对稀疏空间的一种解释是可学习性
-#2 如果你有一个稀疏空间，点随机分布在空间中，根据中央极限定理，他们之间的距离会大致相等。这就确保了音素在说话时很容易区分
+1. 对稀疏空间的一种解释是可学习性
+2. 如果你有一个稀疏空间，点随机分布在空间中，根据中央极限定理，他们之间的距离会大致相等。这就确保了音素在说话时很容易区分
 
 大卫·马尔，Marr's Catechism 马尔的问答法
 
 当你处理 AI 问题时
 
-#1 Specify the Problem 明确问题
-#2 Devise a representation suited the Problem 设计一种表达方式适用于问题
-#3 Determine an approach, somtimes a thought of this, a method  确定一个处理方式，一种思路，一种方法
-#4 Pick a mechanism or devise an algorithm  选一个机制，或者说算法
-#5 Experiment 实验
+1. Specify the Problem 明确问题
+2. Devise a representation suited the Problem 设计一种表达方式适用于问题
+3. Determine an approach, somtimes a thought of this, a method  确定一个处理方式，一种思路，一种方法
+4. Pick a mechanism or devise an algorithm  选一个机制，或者说算法
+5. Experiment 实验
 
 当然过程不会像这样线性往下流动，中间可能会有很多回路
 
@@ -56,6 +57,6 @@ Yip 认为它能奏效的原因在于这是一个稀疏空间，对于高维稀�
 
 什么是优良的表示 what is a good representation
 
-#1 表示要明确表示正确的东西 Explicit
-#2 是否能让约束条件暴露出来？因为需要这些约束条件才能通过处理得到答案。
-#3 局部性标准，通过吸管一样看到正确答案，比分散到四处的表示要好。
+1. 表示要明确表示正确的东西 Explicit
+2. 是否能让约束条件暴露出来？因为需要这些约束条件才能通过处理得到答案。
+3. 局部性标准，通过吸管一样看到正确答案，比分散到四处的表示要好。

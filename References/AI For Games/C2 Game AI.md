@@ -1,8 +1,9 @@
 2022-10-18, 18:45
-Status: #reference 
-Tags: #game #AI 
+Status: #reference
+Tags: #game #AI
 
 ---
+
 # C2 Game AI
 
 This Chapter looks at the high-level issues around game AI: what kinds of approaches work, what they need to take accout of, and how they can all be put together.

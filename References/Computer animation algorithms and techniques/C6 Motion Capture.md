@@ -1,8 +1,9 @@
 2022-10-18, 18:28
-Status: #reference 
-Tags: #game_dev #animation 
+Status: #reference
+Tags: #game_dev #animation
 
 ---
+
 # Motion Capture
 
 6.1 Motion capture technologies

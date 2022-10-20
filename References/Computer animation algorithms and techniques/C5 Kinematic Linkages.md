@@ -1,18 +1,19 @@
 2022-10-18, 18:27
-Status: #reference 
-Tags: #game_dev #animation 
+Status: #reference
+Tags: #game_dev #animation
 
 ---
+
 # Kinematic Linkages
 
 5.1 Hierarchical modeling
 Articulated
 The joints of xxx allow motion in one direction and are said to have one degree of freedom (DOF)
-    Revolute joint
-    Prismatic joint
-Structures in which more than one DOF are coincident are called Complex joints. 
-    The planar joint
-    The ball-and-socket joint.
+Revolute joint
+Prismatic joint
+Structures in which more than one DOF are coincident are called Complex joints.
+The planar joint
+The ball-and-socket joint.
 
 5.1.1 Data structure for hierarchical modeling
 Human figures and animals are conveniently modeled as hierarchical linkages. Suck linkages can be represented by a tree structure of nodes connected by arcs.

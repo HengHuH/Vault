@@ -1,8 +1,9 @@
 2022-10-18, 17:45
-Status: #reference 
-Tags: #AI 
+Status: #reference
+Tags: #AI
 
 ---
+
 # Learning: Boosting Boosting
 
 Boosting 算法 ，提升

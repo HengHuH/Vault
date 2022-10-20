@@ -1,8 +1,9 @@
 2022-10-18, 17:47
-Status: #reference 
-Tags: #AI 
+Status: #reference
+Tags: #AI
 
 ---
+
 # Architectures: GPS, SOAR, Subsumption, Society of Mind
 
 架构：GPS、SOAR、包容框架、心智社会
@@ -13,7 +14,6 @@ General Problem Solver  通用问题求解器， 有点像 HTS
 Problem Solving Hypothesis
 
 SOAR，State Operator and Result
-
 
 Long Term Memery
 Short Term Memery
@@ -36,9 +36,9 @@ Subsumption 包容架构
     抽象层
     Creature Hypothesis
 
-#1 No Representation
-#2 Use World instead of Model
-#3 Finite State Machines
+1. No Representation
+2. Use World instead of Model
+3. Finite State Machines
 
 Genesisi, Centered on Language
 
@@ -52,9 +52,7 @@ when does a children become an adult？当可使用符号描述颜色？答案�
 
 无法将蓝色墙壁同矩形形状结合到一起。语言似乎正是建立描述所需的链接器的中介物
 
-
-
 核心要义
 
-#1 Look-Listen-Draw-Talk
-#2 Beware of fast talkers，不是因为这样就能够说服你，而是因为讲话快的人，就会塞住你的语言处理器，这样你就无法思考了。
+1. Look-Listen-Draw-Talk
+2. Beware of fast talkers，不是因为这样就能够说服你，而是因为讲话快的人，就会塞住你的语言处理器，这样你就无法思考了。

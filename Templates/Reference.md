@@ -1,6 +1,7 @@
 {{date}}, {{time}}
-Status: #reference 
+Status: #reference
 Tags:
 
 ---
+
 # {{title}}

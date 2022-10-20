@@ -1,8 +1,9 @@
 2022-10-18, 17:13
-Status: #reference 
-Tags: #AI 
+Status: #reference
+Tags: #AI
 
 ---
+
 # L04 Search Depth-First, Hill Climbing, Beam
 
 搜索：深度优先，爬山，束搜索
@@ -19,12 +20,12 @@ If you've got some kind of heuristic that tells you that you're going closer to 
 
 Beam search, is a complement, addition of breadth first search
 
-| -  | Back Tracking | Use extended list filter | Informed |
-| -- | -- | -- | -- |
-| British Museum | x | x | x |
-| Depth First | o | o|x|
-|Breadth First |x|o|x|
-| Hill Climbing |o|o|o|
-|Beam |x|o|o|
+| -              | Back Tracking | Use extended list filter | Informed |
+| -------------- | ------------- | ------------------------ | -------- |
+| British Museum | x             | x                        | x        |
+| Depth First    | o             | o                        | x        |
+| Breadth First  | x             | o                        | x        |
+| Hill Climbing  | o             | o                        | o        |
+| Beam           | x             | o                        | o        |
 
 应用领域：make a plan

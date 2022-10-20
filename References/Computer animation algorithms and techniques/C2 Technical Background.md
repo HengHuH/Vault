@@ -1,8 +1,9 @@
 2022-10-18, 18:22
-Status: #reference 
-Tags: #game #animation 
+Status: #reference
+Tags: #game #animation
 
 ---
+
 # Technical Background
 
 2.1 Spaces and transformations
@@ -12,7 +13,7 @@ object space -> world space -> eye space -> Image space -> screen space
 a center of interest (COI)
 eye position (EYE)
 
-w = COI - EYE,  u = w x (0, 1, 0),   v = u x w
+w = COI - EYE, u = w x (0, 1, 0), v = u x w
 
 camera-centric coordinate system (u, v, w)
 

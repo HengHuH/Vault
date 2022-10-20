@@ -134,7 +134,7 @@ MyFunctionName(a, b, c)
 尽可能使用描述性的命名，别心疼空间，毕竟相比之下让代码易于新读者理解更重要。不要用只有项目开发者能理解的缩写。也不要通过砍掉几个字母来缩写单词。
 这份[Cheatsheet](https://github.com/kettanaito/naming-cheatsheet)也许可以帮到你。
 
-**几种命名方式**
+几种命名方式：
 
 - 大写下划线， `HOST_IP`
 - 小写下划线，`server_id`

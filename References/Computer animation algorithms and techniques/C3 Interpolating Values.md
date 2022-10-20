@@ -1,8 +1,9 @@
 2022-10-18, 18:24
-Status: #reference 
-Tags: #game #animation 
+Status: #reference
+Tags: #game #animation
 
 ---
+
 # Interpolating Values
 
 3.1.1 The appropriate function
@@ -16,7 +17,7 @@ Functions:
 spline 样条曲线
 Catmull-Rom Spline (only positional information)
 Hermite formulation (only positional information)
-Parabolic blending 
+Parabolic blending
 B-spline
 Bezier
 
