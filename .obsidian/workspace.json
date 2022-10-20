@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "References/MIT-LinearAlgebra/L05 转置，置换，向量空间.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/MIT-LinearAlgebra/L05 转置，置换，向量空间.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/MIT-LinearAlgebra/L05 转置，置换，向量空间.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "References/MIT-LinearAlgebra/L05 转置，置换，向量空间.md"
+                "file": "README.md"
               }
             }
           }
@@ -285,6 +285,7 @@
   },
   "active": "11214abcae91daaa",
   "lastOpenFiles": [
+    "References/MIT-LinearAlgebra/L05 转置，置换，向量空间.md",
     "References/MIT-LinearAlgebra/L31 基变换及图像压缩.md",
     "References/MIT-LinearAlgebra/L30 线性变换及对应矩阵.md",
     "References/MIT-LinearAlgebra/L29 奇异值分解.md",
@@ -293,7 +294,6 @@
     "References/MIT-LinearAlgebra/L26 复矩阵和快速傅里叶变换.md",
     "References/MIT-LinearAlgebra/L25 对称矩阵和正定矩阵.md",
     "References/MIT-LinearAlgebra/L24 马尔科夫矩阵和傅里叶级数.md",
-    "References/MIT-LinearAlgebra/L23 微分方程和 exp(At).md",
-    "References/MIT-LinearAlgebra/L22 对角化和矩阵乘幂.md"
+    "References/MIT-LinearAlgebra/L23 微分方程和 exp(At).md"
   ]
 }
