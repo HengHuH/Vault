@@ -191,7 +191,7 @@ Abstraction Layer
 * Full Functionality
 * Dynamic Variation
 
-![[messiah-2e.png]]
+![[messiah-2.png]]
 
 What is Rendering?
 
