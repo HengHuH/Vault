@@ -8,163 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4887588ae2f98d8a",
+            "id": "646b09707a676705",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Notes/高等代数-丘维声/L01 第一章 线性方程组的解法.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1e2e75b60187706d",
+            "id": "43a818667a73aafa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/游戏引擎/NXGUI系统设计.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f623207389875892",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/游戏引擎/Messiah Engine 设计概要.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e1f49a9a5c19f4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Http,Https的区别.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d963003518e5c626",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/游戏客户端的优化的经验.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "238544d82c0186b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Spiderman新经理觉醒计划/01 管理角色认知.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "639f70d55ad78dcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Spiderman新经理觉醒计划/01 管理角色认知.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbaa663527fdc91a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Spiderman新经理觉醒计划/03 辅导.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65035b78966db695",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Spiderman新经理觉醒计划/02 向上管理.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7411444d9eec9ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Spiderman新经理觉醒计划/05 项目管理.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f37fa4cc1bf4071",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Spiderman新经理觉醒计划/06 MBTI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e2e40e6f22e9200",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Spiderman新经理觉醒计划/07 问题分析.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11214abcae91daaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Spiderman新经理觉醒计划/03 辅导.md",
+                "file": "Notes/Markdown中的数学公式.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.5
+    "width": 200
   },
   "right": {
     "id": "72f8acf711ad2196",
@@ -230,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Spiderman新经理觉醒计划/03 辅导.md",
+                "file": "Notes/高等代数-丘维声/L01 第一章 线性方程组的解法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Spiderman新经理觉醒计划/03 辅导.md",
+                "file": "Notes/高等代数-丘维声/L01 第一章 线性方程组的解法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Spiderman新经理觉醒计划/03 辅导.md"
+                "file": "Notes/高等代数-丘维声/L01 第一章 线性方程组的解法.md"
               }
             }
           }
@@ -278,22 +145,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "11214abcae91daaa",
+  "active": "646b09707a676705",
   "lastOpenFiles": [
-    "Notes/Spiderman新经理觉醒计划/02 向上管理.md",
+    "Notes/高等代数-丘维声/L00 引言：高等代数研究对象.md",
+    "Notes/高等代数-丘维声/L01 第一章 线性方程组的解法.md",
+    "Notes/Markdown中的数学公式.md",
+    "Notes/MIT-LinearAlgebra/L03 矩阵乘法和逆.md",
+    "Notes/MIT-LinearAlgebra/L02 矩阵消元.md",
+    "Notes/MIT-LinearAlgebra/L01 方程组的几何解释.md",
     "README.md",
-    "References/MIT-LinearAlgebra/L05 转置，置换，向量空间.md",
-    "References/MIT-LinearAlgebra/L31 基变换及图像压缩.md",
-    "References/MIT-LinearAlgebra/L30 线性变换及对应矩阵.md",
-    "References/MIT-LinearAlgebra/L29 奇异值分解.md",
-    "References/MIT-LinearAlgebra/L28 相似矩阵和若尔当标准型.md",
-    "References/MIT-LinearAlgebra/L27 正定矩阵.md",
-    "References/MIT-LinearAlgebra/L26 复矩阵和快速傅里叶变换.md",
-    "References/MIT-LinearAlgebra/L25 对称矩阵和正定矩阵.md"
+    "Notes/游戏引擎/NXGUI系统设计.md",
+    "Notes/游戏引擎/Messiah Engine 设计概要.md",
+    "Zettelkasten/Http,Https的区别.md"
   ]
 }
