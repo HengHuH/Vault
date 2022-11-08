@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "646b09707a676705",
+            "id": "daa358a9378fa458",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/高等代数-丘维声/L01 第一章 线性方程组的解法.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7177fdd2d966de7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Markdown中的数学公式.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b8e9009292e227b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/高等代数-丘维声/L02 第二章 N阶行列式.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43a818667a73aafa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Markdown中的数学公式.md",
+                "file": "Notes/高等代数-丘维声/L03 第三章 线性空间.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/高等代数-丘维声/L02 第二章 N阶行列式.md",
+                "file": "Notes/高等代数-丘维声/L03 第三章 线性空间.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/高等代数-丘维声/L02 第二章 N阶行列式.md",
+                "file": "Notes/高等代数-丘维声/L03 第三章 线性空间.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/高等代数-丘维声/L02 第二章 N阶行列式.md"
+                "file": "Notes/高等代数-丘维声/L03 第三章 线性空间.md"
               }
             }
           }
@@ -173,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5b8e9009292e227b",
+  "active": "daa358a9378fa458",
   "lastOpenFiles": [
     "Notes/高等代数-丘维声/L02 第二章 N阶行列式.md",
+    "Notes/Markdown中的数学公式.md",
+    "Notes/高等代数-丘维声/L03 第三章 线性空间.md",
     "Notes/高等代数-丘维声/L01 第一章 线性方程组的解法.md",
     "Notes/高等代数-丘维声/L00 引言：高等代数研究对象.md",
-    "Notes/Markdown中的数学公式.md",
     "Notes/MIT-LinearAlgebra/L03 矩阵乘法和逆.md",
     "Notes/MIT-LinearAlgebra/L02 矩阵消元.md",
     "Notes/MIT-LinearAlgebra/L01 方程组的几何解释.md",
     "README.md",
-    "Notes/游戏引擎/NXGUI系统设计.md",
-    "Notes/游戏引擎/Messiah Engine 设计概要.md"
+    "Notes/游戏引擎/NXGUI系统设计.md"
   ]
 }

@@ -6,5 +6,37 @@
       ],
       "key": "T"
     }
+  ],
+  "workspace:new-tab": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "T"
+    }
+  ],
+  "editor:toggle-bold": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "B"
+    }
+  ],
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "H"
+    }
+  ],
+  "editor:toggle-italics": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "I"
+    }
   ]
 }

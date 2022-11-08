@@ -41,3 +41,6 @@ $$
 $$\begin{bmatrix}a & b \\ c & d\end{bmatrix}$$
 $$\begin{Bmatrix}a & b \\ c & d\end{Bmatrix}$$
 
+## Tag
+标签
+$$a:=x^2-y^3 \tag{1}$$
