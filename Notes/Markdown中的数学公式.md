@@ -26,7 +26,7 @@ $$A,B,\Gamma,\Delta,E,Z,H,\Theta,I,K,\Lambda,M,N,\Xi,O,\Pi,P,T,\Upsilon,\Phi,X,\
 大空格：==\\quad== : $a\quad b$,  ==\\qquad== : $a\qquad b$
 
 ## 常用符号
-$$\dots, \cdots, \vdots, \ddots $$
+$$\dots, \cdots, \vdots, \ddots, \infty$$
 ## 算数
 $$\times, +,\div, -, \frac{2}{4}, a\cdot b,\dbinom{n}{r},a \bmod b,\pmod{m}, \sqrt{X}, \sqrt[n]{X},  $$
 $$\sum_{k=1}^{N}k^2, \prod_{i=1}^Nx_i$$

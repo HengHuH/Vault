@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Markdown中的数学公式.md",
+                "file": "Notes/高等代数-丘维声/L03 第三章 线性空间.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Markdown中的数学公式.md",
+                "file": "Notes/高等代数-丘维声/L03 第三章 线性空间.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Markdown中的数学公式.md",
+                "file": "Notes/高等代数-丘维声/L03 第三章 线性空间.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Markdown中的数学公式.md"
+                "file": "Notes/高等代数-丘维声/L03 第三章 线性空间.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "bac07d6185e1199c",
   "lastOpenFiles": [
-    "Notes/力学-舒幼生/01 第一章 质点运动学.md",
+    "Notes/Markdown中的数学公式.md",
     "Notes/高等代数-丘维声/L03 第三章 线性空间.md",
+    "Notes/力学-舒幼生/01 第一章 质点运动学.md",
     "References/Realtime Collision Detection.md",
     "References/Collision Detection in Interactive 3D Environments.md",
     "References/GOAP.md",
     "References/MIT 微积分重点.md",
     "References/What’s LLVM.md",
     "Notes/高等代数-丘维声/L02 第二章 N阶行列式.md",
-    "Notes/Markdown中的数学公式.md",
     "Notes/高等代数-丘维声/L01 第一章 线性方程组的解法.md"
   ]
 }
