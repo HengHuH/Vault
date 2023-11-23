@@ -3,7 +3,6 @@ Status: #idea
 Tags: #websocket #socket
 
 ---
-
 # Websocket, Socket 的区别
 
 在端到端的一个连接中，这两个端叫做Socket。
@@ -13,5 +12,4 @@ Tags: #websocket #socket
 讨论网络环境中需要一种全双工的连接形式
 
 ---
-
 # References

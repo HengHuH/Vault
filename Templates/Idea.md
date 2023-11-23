@@ -3,9 +3,7 @@ Status: #idea
 Tags:
 
 ---
-
 # {{title}}
 
 ---
-
 # References
