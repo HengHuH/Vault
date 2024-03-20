@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/iOS 打开应用Documents目录权限.md",
+                "file": "Zettelkasten/Python web framework.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4edc9e0617282cc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/游戏客户端的优化的经验.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ios",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +85,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/iOS 打开应用Documents目录权限.md",
+                "file": "Zettelkasten/Python web framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/iOS 打开应用Documents目录权限.md",
+                "file": "Zettelkasten/Python web framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/iOS 打开应用Documents目录权限.md"
+                "file": "Zettelkasten/Python web framework.md"
               }
             }
           }
@@ -155,27 +166,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4888b49fcd764482",
+  "active": "bac07d6185e1199c",
   "lastOpenFiles": [
-    "README.md",
-    "Zettelkasten/iOS 打开应用Documents目录权限.md",
-    "Templates/Idea.md",
-    "Templates/Date.md",
-    "Zettelkasten/websocket, socket 的区别.md",
-    "Zettelkasten/游戏客户端的优化的经验.md",
-    "Zettelkasten/Http,Https的区别.md",
+    "Notes/Markdown中的数学公式.md",
+    "Notes/工程管理/My Toolset.md",
+    "Notes/工程管理/Carnival 开发经验分享（讲稿）.md",
+    "Notes/工程管理/开发流程 DevOps, CI-CD.md",
+    "References/Computer animation algorithms and techniques/C1 Intrduction.md",
     "Templates/Aliases.md",
+    "Templates/Date.md",
+    "Templates/Idea.md",
     "Templates/Note.md",
     "Templates/Reference.md",
-    "Notes/高等代数-丘维声/L03 第三章 线性空间.md",
-    "Notes/Markdown中的数学公式.md",
-    "Notes/力学-舒幼生/01 第一章 质点运动学.md",
-    "References/Realtime Collision Detection.md",
-    "References/Collision Detection in Interactive 3D Environments.md",
-    "References/GOAP.md",
-    "References/MIT 微积分重点.md",
-    "References/What’s LLVM.md",
-    "Notes/高等代数-丘维声/L02 第二章 N阶行列式.md",
-    "Notes/高等代数-丘维声/L01 第一章 线性方程组的解法.md"
+    "Zettelkasten/websocket, socket 的区别.md",
+    "README.md",
+    "Zettelkasten/游戏客户端的优化的经验.md",
+    "Zettelkasten/Python web framework.md",
+    "Zettelkasten/Http,Https的区别.md",
+    "Zettelkasten/iOS 打开应用Documents目录权限.md",
+    "Notes/Work/Interview FQA.md",
+    "Zettelkasten/python.md",
+    "Zettelkasten/web.md",
+    "Notes/Spiderman新经理觉醒计划/08 管理日历与习惯.md",
+    "Notes/Spiderman新经理觉醒计划/07 问题分析.md",
+    "Notes/Spiderman新经理觉醒计划/06 MBTI.md",
+    "Notes/Spiderman新经理觉醒计划/05 项目管理.md",
+    "Notes/Spiderman新经理觉醒计划/04 激励授权.md",
+    "Notes/Spiderman新经理觉醒计划/03 辅导.md",
+    "Notes/Spiderman新经理觉醒计划/01 管理角色认知.md",
+    "Files/messiah/messiah-2.png",
+    "Files/messiah/messiah-1.png",
+    "Files/GameStructures/game-structures-1.jpeg"
   ]
 }
